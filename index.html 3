@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anime</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>AnimeCollection</h1>
+    <div class="main">
+    <div class="left">
+        <h2>Adventure</h2>
+        <h2 class="right">Horror</h2>
+    <div>
+    <img src="images/demon_slayer.jpg" alt="">
+    <img src="images/aot_.jpg" alt="">
+    <img src="images/Horimiya_Key_Visual_2.webp" alt="">
+    <img src="images/silentvoice.jpg" alt="">
+    <img src="images/naruto.jpg" alt="">
+    <img src="images/one.jpg" alt="">
+    <img src="images/yourname.jpg" alt="">
+    <img src="images/little monster.jpg" alt="">
+    </div>
+    </div>
+    </div>
+</body>
+</html>
