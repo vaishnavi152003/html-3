@@ -1,0 +1,54 @@
+body{
+    background:url(images/2944349.webp);
+    overflow: hidden;
+    width: 15%;
+    height: 30%;
+}
+h1{
+    font-size: 35px;
+    color: whitesmoke;
+    padding-left: 280%;
+}
+h2{
+    color: azure;
+    font-size: 40px;
+    padding-left: 10%;
+    padding-bottom: 0%;
+}
+.right{
+    padding-inline-start: 33%;
+}
+.main{
+    background-color: rgba(0, 0, 0, 0.714);
+    width: 1150px;
+    height: 650px;
+    margin-left: 75%;
+    margin-right: 15%;
+    padding-left: 150px;
+    padding-right: 10px;
+    border-radius: 20px;
+    margin-bottom: 10%;
+}
+div{
+    display: flex;
+    flex-wrap: wrap;
+}
+.haed{
+    color: azure;
+    font-size: 25px;
+}
+div img{
+    display: grid;
+    margin-top: 45px;
+    margin-left: 30px;
+    width: 180px;
+    height: 180px;
+    border-radius: 3%;
+    border: 3px solid white;
+    object-position: center;
+    margin-right: 30px;
+    margin-bottom: 20px;
+}
+img:hover{
+    border: 5px solid white;
+}
